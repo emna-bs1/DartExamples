@@ -1,0 +1,8 @@
+enum Level{
+  EXPERT,
+  VERY_GOOD,
+  GOOD,
+  INTERMEDIATE,
+  ELEMENTARY,
+  BEGINNER
+}
